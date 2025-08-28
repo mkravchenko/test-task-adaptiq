@@ -1,0 +1,17 @@
+[project]
+name = "test-task-adaptiq"
+version = "0.1.0"
+description = "Test task"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pydantic==2.11.7",
+    "pytest>=8.4.1",
+    "pyyaml>=6.0.2",
+    "requests>=2.32.5",
+    "selenium==4.35.0",
+    "webdriver-manager==4.0.2",
+    "wemake-python-styleguide>=1.4.0",
+]
+
+
