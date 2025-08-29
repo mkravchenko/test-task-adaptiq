@@ -1,7 +1,7 @@
 [project]
 name = "test-task-adaptiq"
 version = "0.1.0"
-description = "Test task"
+description = "Test task adaptiq"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
