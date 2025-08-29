@@ -18,5 +18,5 @@
     ```
 - API test
     ```
-        pytest --rootdir=saucedemo saucedemo/tests
+        pytest --rootdir=airport_service airport_service/tests
     ```
